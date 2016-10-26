@@ -4,3 +4,5 @@ Git is free software.
 First change.
 
 Second Change.
+
+checkout change
